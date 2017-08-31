@@ -14,12 +14,12 @@
 
 ## Create byte code 
 
-1 true
-2 false
-3 true
-4 false
-5 true
-6 true
+1 true<br />
+2 false<br />
+3 true <br />
+4 false<br />
+5 true<br />
+6 true<br />
 
 
 
