@@ -1,2 +1,14 @@
-# Apex-BooleanStringParser
-Salesforce Apex package for parsing complex boolean logic strings
+# SFDX  App
+
+## Dev, Build and Test
+
+
+## Resources
+
+
+## Description of Files and Directories
+
+
+## Issues
+
+
