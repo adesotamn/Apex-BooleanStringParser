@@ -27,13 +27,13 @@
 
 
 
-1 AND 2 OR (3 AND (4 AND 5 OR 6))
+1 AND 2 OR (3 AND (4 AND 5 OR 6))<br />
 
-4 AND 5			true	1 AND 2 OR (3 AND (true OR 6))	r1
-r1 OR 6			true	1 AND 2 OR (3 AND true)			r2
-3 AND r2 		true 	1 AND 2 OR true					r3
-1 AND 2			false	false OR true					r4
-r4 OR r5	  	true    end								r5
+4 AND 5			true	1 AND 2 OR (3 AND (true OR 6))	r1<br />
+r1 OR 6			true	1 AND 2 OR (3 AND true)			r2<br />
+3 AND r2 		true 	1 AND 2 OR true					r3<br />
+1 AND 2			false	false OR true					r4<br />
+r4 OR r5	  	true    end								r5<br />
 
 
 
