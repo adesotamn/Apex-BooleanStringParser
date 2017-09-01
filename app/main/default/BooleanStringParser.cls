@@ -15,7 +15,7 @@ global static class BooleanStringParser {
 		    	parse(_matcher.group(i));
 		    }
 		}
-
+		
 			
     	return null;	
     }
